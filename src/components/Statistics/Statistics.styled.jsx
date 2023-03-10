@@ -7,4 +7,4 @@ export const StatisticsText = styled.p`
   :not(:last-child) {
     margin-bottom: 10px;
   }
-`;
+`;  
